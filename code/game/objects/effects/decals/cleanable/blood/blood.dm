@@ -110,7 +110,7 @@
 	amount = 0
 	var/message
 
-	/obj/effect/decal/cleanable/blood/writing/bloodtrail
+/obj/effect/decal/cleanable/blood/writing/bloodtrail
 	icon_state = "tracks"
 	desc = "It looks like someone was dragged while bleeding."
 	gender = NEUTER
