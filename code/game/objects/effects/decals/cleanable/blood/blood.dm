@@ -111,12 +111,7 @@
 	var/message
 
 /obj/effect/decal/cleanable/blood/writing/bloodtrail
-	icon_state = "tracks"
 	desc = "It looks like someone was dragged while bleeding."
-	gender = NEUTER
-	random_icon_states = list("writing1","writing2","writing3","writing4","writing5")
-	amount = 0
-	var/message
 
 /obj/effect/decal/cleanable/blood/writing/New()
 	..()
